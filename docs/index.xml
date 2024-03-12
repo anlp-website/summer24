@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Class Homepage</title>
+    <link>/</link>
+    <description>Recent content in Home on Class Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories</title>
+      <link>/docs/grading/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/grading/categories/</guid>
+      <description>Categories#Assignments (85%)#We have 4 big assignments in total (subject to change). Visit this course&amp;rsquo;s Gradescope site for the assignment documents. See the schedule table above for deliverable due dates.
+[20%] HW1: Week 1 to Week 3 topics [20%] HW2: Week 4 to Week 7 topics [20%] HW3: Week 8 to Week 10 topics [25%] HW4: Week 11 to end. We do not release solutions for homework.</description>
+    </item>
+    
+    <item>
+      <title>Collection</title>
+      <link>/docs/resources/collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/resources/collection/</guid>
+      <description>Resource Collection#Recommended Reading#All content and course materials can be accessed online. There is no textbook for this course. All Georgia Tech students have FREE access to https://www.oreilly.com, where you can find a huge number of highly rated and classic books (e.g., the &amp;ldquo;animal&amp;rdquo; books) from O&amp;rsquo;Reilly and Pearson covering a wide variety of computer science topics, including some of those listed below. Just log in with your official GT email address, e.</description>
+    </item>
+    
+    <item>
+      <title>Course Overview</title>
+      <link>/docs/course-info/course-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/course-info/course-overview/</guid>
+      <description>Course Goals#Analyze NLP techniques and apply them to text data. The course is divided into three main categories: s
+Preprocessing: Demonstrate how to clean and integrate text data
+Processing: Apply NLP algorithms on your pre-processed data to perform different tasks
+Post-processing: Evaluate your developed NLP models.
+Solve problems with real datasets Apply practical know-how (useful for jobs, research) through significant hands-on programming assignments
+Course Pre- and/or Co-Requisites#Review our &amp;ldquo;warnings&amp;rdquo; before taking this course.</description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>/docs/guidelines/general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/guidelines/general/</guid>
+      <description>General#Attendance#This is a fully online course. Login on a regular basis to complete your work, so that you do not have to spend a lot of time reviewing and refreshing yourself regarding the content. Class Deliverables#All class deliverables will be handled via Gradescope except quizzes which will be on Canvas. The time span offered to complete the course objectives is plentiful and deadlines will not be extended under any circumstances.</description>
+    </item>
+    
+    <item>
+      <title>Instructor and TAs</title>
+      <link>/docs/course-info/instructors-and-tas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/course-info/instructors-and-tas/</guid>
+      <description>Instructors and TAs#Instructor#Max Mahdi Roozbahanimahdir@gatech.eduhttps://mahdi-roozbahani.github.io/Wafa Louhichiwlouhichi3@gatech.eduhttps://www.linkedin.com/in/wafa-louhichi/Nimisha Roynroy9@gatech.eduhttps://nimisharoy9.wixsite.com/myportfolioHead TAs#Rusty Utomorutomo6@gatech.eduTAs#Daanish M Mohammeddmohammed7@gatech.eduRohit Dasrohdas@gatech.eduRuijia Wangrwang415@gatech.eduXian Mae Diego Hadiaxhadia3@gatech.edu</description>
+    </item>
+    
+    <item>
+      <title>Office Hours</title>
+      <link>/docs/guidelines/office-hours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/guidelines/office-hours/</guid>
+      <description>Office Hours#Overview#TAs plan to hold office hours starting week 2, except on Georgia Tech holidays (e.g., thanksgiving, MLK day, spring break). Each office hour session will be run by at least one TA, and is 1 hour long. See GT’s academic calendar for the full list of holidays https://registrar.gatech.edu/calendar. We will spread the office hours across weekdays, and across time of the day. We will announce the office hour times.</description>
+    </item>
+    
+    <item>
+      <title>Course Schedule</title>
+      <link>/docs/course-info/course-schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/course-info/course-schedule/</guid>
+      <description>Schedule#Important
+All deadline and due dates in this course will be at AoE time zone. For all dates used in this course, their times are 23:59 Anywhere on Earth (11:59 pm AoE). For example, a due date of &amp;ldquo;January 8&amp;rdquo; is the same as &amp;ldquo;January 8, 23:59pm AoE&amp;rdquo;. Convert the times to your local times using a Time Zone Converter.
+Scroll horizontally to see the full schedule table on mobile devicesWeekDatesTopicsHomeworkQuizzesReadings11/8 - 1/12Course introductionText data preprocessing: Normalization, lemmatization, stemming, stop words removal&amp;hellip;21/15 - 1/19MLK Official Institute HolidayText Representations:One hot encodingBoW (frequency counting)TF-IDFQuiz 0 | Knowledge-based | out 1/12 - due 1/19 31/22 - 1/26Classification IntroductionNaive BayesClassification Model Evaluation: accuracy, precision, recall, confusion matrixHW1 out 1/26Quiz 1 | week 1 and 2| out 1/19 - due 1/2641/29 - 2/02Focus on HW1Quiz 2 | week 3| out 1/26 - due 2/02 52/05 - 2/09Logistic RegressionSVMPerceptronHW1 due 2/09HW2 out 2/0962/12 - 2/16SVD (Dimensionality Reduction) + Co-occurrence embeddingsGloveQuiz 3 | week 5| out 2/09 - due 2/16 GloVe: Global Vectors for Word Representation72/19 - 2/23Focus on HW282/26 - 3/01Neural Network (fully connected)Word2vec: CBoW, Skip-GramHW2 due 3/01HW3 out 3/01Quiz 4 | week 6| out 2/23 - due 3/01NN PlaygroundInteractive NN initialization;The role of a hidden layer;Back propagation numerical example;More detailed introduction;Efficient Estimation of Word Representations in Vector Space93/04 - 3/08CNNRNNQuiz 5 | week 8| out 3/01 - due 3/08CNN Live Demo;A guide to an efficient way to build CNN and optimize its hyper-parameters;Back Propagation in CNN;Transfer learning in CNN;103/11 - 3/15LSTM and GRULSTM + Attention (Focus on Attention mechanism)Quiz 6 | week 9| out 3/08 - due 3/15113/18 - 3/22Spring Break123/25 - 3/29Transformer modelsExamples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer)HW3 due 3/29HW4 out 3/29Quiz 7 | week 10| out 3/15 - due 3/29Attention Is All You Need;BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding;134/01 - 4/05Sequence Labelling: POS TaggingSequence Labelling: NERQuiz 8 | week 12| out 3/29 - due 4/05144/08 - 4/12Unsupervised ModelsTopic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)Quiz 9 | week 13| out 4/05 - due 4/12154/15 - 4/19Focus on HW 4HW4 due 04/22Quiz 10 | week 14 | out 4/12 - due 4/19</description>
+    </item>
+    
+    <item>
+      <title>Diversity &amp; Inclusion</title>
+      <link>/docs/guidelines/diversity-and-inclusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/guidelines/diversity-and-inclusion/</guid>
+      <description>Diversity &amp;amp; Inclusion#Just as machine learning algorithms cannot accomplish complex tasks if trained on datasets of limited variability, our course cannot be successful without appreciating the diversity of our students. In this class we aim to create an environment where all voices are valued, respecting the diversity of gender, sexuality, age, socioeconomic status, ability, ethnicity, race, and culture. We always welcome suggestions that can help us achieve this goal.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>/docs/guidelines/covid-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/guidelines/covid-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
