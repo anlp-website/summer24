@@ -53,3 +53,4 @@ To manually deploy the site:
 3. Delete the old `docs` directory, and rename this new `public` directory to be `docs`.
 4. Push the changes# summer24
 # summer24
+# summer24
