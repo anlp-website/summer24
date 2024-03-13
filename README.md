@@ -52,3 +52,4 @@ To manually deploy the site:
 2. If the build is successful, the outputs will go to a `public` directory in the root.
 3. Delete the old `docs` directory, and rename this new `public` directory to be `docs`.
 4. Push the changes# summer24
+# summer24
