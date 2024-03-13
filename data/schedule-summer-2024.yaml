@@ -21,6 +21,9 @@ tableRows:
       - "Classification Introduction"
       - "Naive Bayes"
       - "Classification Model Evaluation: accuracy, precision, recall, confusion matrix"
+      - "Logistic Regression"
+      - "SVM"
+      - "Perceptron"
     Quizzes: "Quiz 1 | week 1 | out 5/17 - due 5/24"
 
   - 3:
@@ -28,32 +31,23 @@ tableRows:
     Dates: "5/27 - 5/31"
     Topics:
       - Memorial Day Official School holiday
-      - "Logistic Regression"
-      - "SVM"
-      - "Perceptron"
-
+      - SVD (Dimensionality Reduction) + Co-occurrence embeddings
+      - Glove
     Quizzes: "Quiz 2 | week 2 | out 5/24 - due 5/31"
     Homework:
       - "**HW1 due 5/31**"
       - "HW2 out 5/31"
+    Readings:
+      - "[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)"
 
   - 4:
     Week: 4
     Dates: "6/03 - 6/07"
-    Topics:      
-      - SVD (Dimensionality Reduction) + Co-occurrence embeddings
-      - Glove
-    Quizzes: "Quiz 3 | week 3| out 5/31 - due 6/07"
-    Readings:
-      - "[GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)"
-
-  - 5:
-    Week: 5
-    Dates: "6/10 - 6/14"
-    Topics:
+    Topics: 
       - "Neural Network (fully connected)"
-      - "Word2vec: CBoW, Skip-Gram"
+      - "Word2vec: CBoW, Skip-Gram"     
 
+    Quizzes: "Quiz 3 | week 3| out 5/31 - due 6/07"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
       - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
@@ -61,6 +55,13 @@ tableRows:
       - "[Back propagation numerical example](https://hmkcode.github.io/ai/backpropagation-step-by-step/);"
       - "[More detailed introduction](/other/nn-intro.pdf);"
       - "[Efficient Estimation of Word Representations in Vector Space](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid2L-eu4WAAxUPAjQIHds5CocQFnoECA8QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1301.3781&usg=AOvVaw2oae2AEKwhhz_ZlnfwIaFJ&opi=89978449)"
+
+
+  - 5:
+    Week: 5
+    Dates: "6/10 - 6/14"
+    Topics:
+      - "Focus on Homework 2" 
 
     Quizzes: "Quiz 4 | week 4| out 6/07 - due 6/14"
     Homework:
@@ -80,13 +81,12 @@ tableRows:
       - "[Back Propagation in CNN](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/);"
       - "[Transfer learning in CNN](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a);"
 
-    Quizzes: "Quiz 5 | week 5| out 6/14 - due 6/21"
+    Quizzes: "Quiz 5 | week 2| out 6/14 - due 6/21"
 
   - 7:
     Week: 7
     Dates: "6/24 - 6/28"
     Topics:
-      - Independence Day Official School Holiday
       - "LSTM and GRU"
       - LSTM + Attention (Focus on Attention mechanism)
     Readings:
@@ -98,6 +98,7 @@ tableRows:
     Week: 8
     Dates: "7/01 - 7/05"
     Topics:
+      - Independence Day Official School holiday
       - "Transformer models"
       - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
     Readings:
